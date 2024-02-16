@@ -1,4 +1,4 @@
 # Html
 Web Developing
 
- <img src="images/djparty.jpeg">
+ <img src="images/djparty.jpg">
